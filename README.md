@@ -6,4 +6,4 @@ Ini adalah proyek sederhana untuk tugas kuliah yang bertujuan untuk melakukan ko
 
 2. **RGB to YCbCr**: Mengambil nilai komponen warna merah (R), hijau (G), dan biru (B) dan mengonversinya ke format YCbCr, yang umum digunakan dalam pemrosesan video.
 
-🔗 **Demo**: [Lihat Demo](https://wilisetiawan.github.io/RGBtoNTSC-RGBtoYCbCr/)
+🔗 **Demo**: [Lihat Demo](https://willystawn.github.io/RGBtoNTSC-RGBtoYCbCr/)
